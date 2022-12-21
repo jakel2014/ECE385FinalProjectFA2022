@@ -1,0 +1,185 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK1_50'
+Slack : 6.564
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 8.966
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 46.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK1_50'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 13.380
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'MAX10_CLK1_50'
+Slack : 14.553
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 48.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : 1.171
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MAX10_CLK1_50'
+Slack : 3.947
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 4.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.539
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 9.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.617
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : 7.501
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 9.666
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 46.246
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 13.977
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MAX10_CLK1_50'
+Slack : 15.034
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 48.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 1.066
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MAX10_CLK1_50'
+Slack : 3.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 3.978
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.568
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 9.691
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.643
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : 14.082
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 14.955
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 48.469
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.061
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 16.846
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MAX10_CLK1_50'
+Slack : 17.261
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 49.469
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MAX10_CLK1_50'
+Slack : 1.917
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 2.083
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.399
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|sdram_pll|sd1|pll7|clk[0]'
+Slack : 9.720
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.416
+TNS   : 0.000
+
+------------------------------------------------------------
